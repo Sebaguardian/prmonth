@@ -1,3 +1,3 @@
 ### Happy Pride month everyone!
 
-![pride_fast](./fastout.gif.gif)
+![pride_fast](./fastout.gif)
